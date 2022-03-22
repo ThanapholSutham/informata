@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/register/form", {data:[{}],fetch:{},mutations:void 0});

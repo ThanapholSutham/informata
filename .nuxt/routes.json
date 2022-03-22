@@ -1,0 +1,184 @@
+[
+  {
+    "name": "blog___en",
+    "path": "/blog",
+    "component": "C:\\\\xampp\\\\htdocs\\\\infprmate-nuxt\\\\informata\\\\pages\\\\blog\\\\index.vue",
+    "chunkName": "pages/blog/index",
+    "_name": "_91d3f6fa"
+  },
+  {
+    "name": "forgot-password___en",
+    "path": "/forgot-password",
+    "component": "C:\\\\xampp\\\\htdocs\\\\infprmate-nuxt\\\\informata\\\\pages\\\\forgot-password.vue",
+    "chunkName": "pages/forgot-password",
+    "_name": "_5ac6e9d0"
+  },
+  {
+    "name": "inspire___en",
+    "path": "/inspire",
+    "component": "C:\\\\xampp\\\\htdocs\\\\infprmate-nuxt\\\\informata\\\\pages\\\\inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_1869846d"
+  },
+  {
+    "name": "login___en",
+    "path": "/login",
+    "component": "C:\\\\xampp\\\\htdocs\\\\infprmate-nuxt\\\\informata\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_c19e3788"
+  },
+  {
+    "name": "new-password___en",
+    "path": "/new-password",
+    "component": "C:\\\\xampp\\\\htdocs\\\\infprmate-nuxt\\\\informata\\\\pages\\\\new-password.vue",
+    "chunkName": "pages/new-password",
+    "_name": "_009cafa5"
+  },
+  {
+    "name": "pricing___en",
+    "path": "/pricing",
+    "component": "C:\\\\xampp\\\\htdocs\\\\infprmate-nuxt\\\\informata\\\\pages\\\\pricing.vue",
+    "chunkName": "pages/pricing",
+    "_name": "_3805494e"
+  },
+  {
+    "name": "register___en",
+    "path": "/register",
+    "component": "C:\\\\xampp\\\\htdocs\\\\infprmate-nuxt\\\\informata\\\\pages\\\\register\\\\index.vue",
+    "chunkName": "pages/register/index",
+    "_name": "_10969562"
+  },
+  {
+    "name": "index___th",
+    "path": "/th",
+    "component": "C:\\\\xampp\\\\htdocs\\\\infprmate-nuxt\\\\informata\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_54ed7db6"
+  },
+  {
+    "name": "blog-detail___en",
+    "path": "/blog/detail",
+    "component": "C:\\\\xampp\\\\htdocs\\\\infprmate-nuxt\\\\informata\\\\pages\\\\blog\\\\detail.vue",
+    "chunkName": "pages/blog/detail",
+    "_name": "_7804c920"
+  },
+  {
+    "name": "register-form___en",
+    "path": "/register/form",
+    "component": "C:\\\\xampp\\\\htdocs\\\\infprmate-nuxt\\\\informata\\\\pages\\\\register\\\\form.vue",
+    "chunkName": "pages/register/form",
+    "_name": "_7929e938"
+  },
+  {
+    "name": "register-participant___en",
+    "path": "/register/participant",
+    "component": "C:\\\\xampp\\\\htdocs\\\\infprmate-nuxt\\\\informata\\\\pages\\\\register\\\\participant\\\\index.vue",
+    "chunkName": "pages/register/participant/index",
+    "_name": "_2e706c42"
+  },
+  {
+    "name": "blog___th",
+    "path": "/th/blog",
+    "component": "C:\\\\xampp\\\\htdocs\\\\infprmate-nuxt\\\\informata\\\\pages\\\\blog\\\\index.vue",
+    "chunkName": "pages/blog/index",
+    "_name": "_91d3f6fa"
+  },
+  {
+    "name": "forgot-password___th",
+    "path": "/th/forgot-password",
+    "component": "C:\\\\xampp\\\\htdocs\\\\infprmate-nuxt\\\\informata\\\\pages\\\\forgot-password.vue",
+    "chunkName": "pages/forgot-password",
+    "_name": "_5ac6e9d0"
+  },
+  {
+    "name": "inspire___th",
+    "path": "/th/inspire",
+    "component": "C:\\\\xampp\\\\htdocs\\\\infprmate-nuxt\\\\informata\\\\pages\\\\inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_1869846d"
+  },
+  {
+    "name": "login___th",
+    "path": "/th/login",
+    "component": "C:\\\\xampp\\\\htdocs\\\\infprmate-nuxt\\\\informata\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_c19e3788"
+  },
+  {
+    "name": "new-password___th",
+    "path": "/th/new-password",
+    "component": "C:\\\\xampp\\\\htdocs\\\\infprmate-nuxt\\\\informata\\\\pages\\\\new-password.vue",
+    "chunkName": "pages/new-password",
+    "_name": "_009cafa5"
+  },
+  {
+    "name": "pricing___th",
+    "path": "/th/pricing",
+    "component": "C:\\\\xampp\\\\htdocs\\\\infprmate-nuxt\\\\informata\\\\pages\\\\pricing.vue",
+    "chunkName": "pages/pricing",
+    "_name": "_3805494e"
+  },
+  {
+    "name": "register___th",
+    "path": "/th/register",
+    "component": "C:\\\\xampp\\\\htdocs\\\\infprmate-nuxt\\\\informata\\\\pages\\\\register\\\\index.vue",
+    "chunkName": "pages/register/index",
+    "_name": "_10969562"
+  },
+  {
+    "name": "register-participant-form___en",
+    "path": "/register/participant/form",
+    "component": "C:\\\\xampp\\\\htdocs\\\\infprmate-nuxt\\\\informata\\\\pages\\\\register\\\\participant\\\\form.vue",
+    "chunkName": "pages/register/participant/form",
+    "_name": "_0432d347"
+  },
+  {
+    "name": "blog-detail___th",
+    "path": "/th/blog/detail",
+    "component": "C:\\\\xampp\\\\htdocs\\\\infprmate-nuxt\\\\informata\\\\pages\\\\blog\\\\detail.vue",
+    "chunkName": "pages/blog/detail",
+    "_name": "_7804c920"
+  },
+  {
+    "name": "register-form___th",
+    "path": "/th/register/form",
+    "component": "C:\\\\xampp\\\\htdocs\\\\infprmate-nuxt\\\\informata\\\\pages\\\\register\\\\form.vue",
+    "chunkName": "pages/register/form",
+    "_name": "_7929e938"
+  },
+  {
+    "name": "register-participant___th",
+    "path": "/th/register/participant",
+    "component": "C:\\\\xampp\\\\htdocs\\\\infprmate-nuxt\\\\informata\\\\pages\\\\register\\\\participant\\\\index.vue",
+    "chunkName": "pages/register/participant/index",
+    "_name": "_2e706c42"
+  },
+  {
+    "name": "register-participant-form___th",
+    "path": "/th/register/participant/form",
+    "component": "C:\\\\xampp\\\\htdocs\\\\infprmate-nuxt\\\\informata\\\\pages\\\\register\\\\participant\\\\form.vue",
+    "chunkName": "pages/register/participant/form",
+    "_name": "_0432d347"
+  },
+  {
+    "name": "blog-slug___th",
+    "path": "/th/blog/:slug",
+    "component": "C:\\\\xampp\\\\htdocs\\\\infprmate-nuxt\\\\informata\\\\pages\\\\blog\\\\_slug.vue",
+    "chunkName": "pages/blog/_slug",
+    "_name": "_9541398a"
+  },
+  {
+    "name": "blog-slug___en",
+    "path": "/blog/:slug",
+    "component": "C:\\\\xampp\\\\htdocs\\\\infprmate-nuxt\\\\informata\\\\pages\\\\blog\\\\_slug.vue",
+    "chunkName": "pages/blog/_slug",
+    "_name": "_9541398a"
+  },
+  {
+    "name": "index___en",
+    "path": "/",
+    "component": "C:\\\\xampp\\\\htdocs\\\\infprmate-nuxt\\\\informata\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_54ed7db6"
+  }
+]
