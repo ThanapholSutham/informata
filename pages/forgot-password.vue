@@ -12,7 +12,7 @@
         :src="require('@/assets/login-form-logo.png')"
         max-height="80"
       ></v-img>
- <p class="font_web1 mb-2 text-center">RESET PASSWORD </p>
+      <p class="font_web1 mb-2 text-center">RESET PASSWORD</p>
 
       <div class="mt-8">
         <p class="font_web1 mb-2">Your registeration email:</p>
@@ -26,10 +26,10 @@
           required
         ></v-text-field>
       </div>
-      
+
       <div>
         <v-btn
-        to="/new-password"
+          to="/new-password"
           block
           depressed
           color="primary_info"
@@ -37,7 +37,6 @@
           >SEND</v-btn
         >
       </div>
-    
     </v-card>
   </v-main>
 </template>
@@ -46,9 +45,9 @@
 .login_card {
   box-shadow: 6px 15px 48px rgba(0, 31, 112, 0.04) !important;
 }
-.v-text-field--outlined fieldset{
-border-color:  #CBCED5  !important;
-border-radius: 10px !important;
+.v-text-field--outlined fieldset {
+  border-color: #cbced5 !important;
+  border-radius: 10px !important;
 }
 </style>
 <script>

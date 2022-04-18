@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/th/researcher-system", {data:[{}],fetch:{},mutations:void 0});

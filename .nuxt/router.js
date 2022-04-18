@@ -11,6 +11,7 @@ const _c19e3788 = () => interopDefault(import('..\\pages\\login.vue' /* webpackC
 const _009cafa5 = () => interopDefault(import('..\\pages\\new-password.vue' /* webpackChunkName: "pages/new-password" */))
 const _3805494e = () => interopDefault(import('..\\pages\\pricing.vue' /* webpackChunkName: "pages/pricing" */))
 const _10969562 = () => interopDefault(import('..\\pages\\register\\index.vue' /* webpackChunkName: "pages/register/index" */))
+const _f26fa88a = () => interopDefault(import('..\\pages\\researcher-system\\index.vue' /* webpackChunkName: "pages/researcher-system/index" */))
 const _54ed7db6 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
 const _7804c920 = () => interopDefault(import('..\\pages\\blog\\detail.vue' /* webpackChunkName: "pages/blog/detail" */))
 const _7929e938 = () => interopDefault(import('..\\pages\\register\\form.vue' /* webpackChunkName: "pages/register/form" */))
@@ -58,6 +59,10 @@ export const routerOptions = {
     component: _10969562,
     name: "register___en"
   }, {
+    path: "/researcher-system",
+    component: _f26fa88a,
+    name: "researcher-system___en"
+  }, {
     path: "/th",
     component: _54ed7db6,
     name: "index___th"
@@ -101,6 +106,10 @@ export const routerOptions = {
     path: "/th/register",
     component: _10969562,
     name: "register___th"
+  }, {
+    path: "/th/researcher-system",
+    component: _f26fa88a,
+    name: "researcher-system___th"
   }, {
     path: "/register/participant/form",
     component: _0432d347,

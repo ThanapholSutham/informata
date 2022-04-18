@@ -1,8 +1,9 @@
-export { default as Footer } from '../..\\components\\Footer.vue'
-export { default as Mainmenu } from '../..\\components\\Mainmenu.vue'
-export { default as NuxtLogo } from '../..\\components\\NuxtLogo.vue'
-export { default as Tutorial } from '../..\\components\\Tutorial.vue'
-export { default as VuetifyLogo } from '../..\\components\\VuetifyLogo.vue'
+export const Footer = () => import('../..\\components\\Footer.vue' /* webpackChunkName: "components/footer" */).then(c => wrapFunctional(c.default || c))
+export const Mainmenu = () => import('../..\\components\\Mainmenu.vue' /* webpackChunkName: "components/mainmenu" */).then(c => wrapFunctional(c.default || c))
+export const NuxtLogo = () => import('../..\\components\\NuxtLogo.vue' /* webpackChunkName: "components/nuxt-logo" */).then(c => wrapFunctional(c.default || c))
+export const Researchersystem = () => import('../..\\components\\Researchersystem.vue' /* webpackChunkName: "components/researchersystem" */).then(c => wrapFunctional(c.default || c))
+export const Tutorial = () => import('../..\\components\\Tutorial.vue' /* webpackChunkName: "components/tutorial" */).then(c => wrapFunctional(c.default || c))
+export const VuetifyLogo = () => import('../..\\components\\VuetifyLogo.vue' /* webpackChunkName: "components/vuetify-logo" */).then(c => wrapFunctional(c.default || c))
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {
